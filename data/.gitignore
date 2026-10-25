@@ -1,0 +1,6 @@
+# Dataset payloads are downloaded, never committed.
+raw/*
+processed/*
+models/*
+reports/*
+!*/.gitkeep

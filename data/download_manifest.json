@@ -1,0 +1,40 @@
+[
+  {
+    "key": "resumes_large",
+    "slug": "snehaanbhawal/resume-dataset",
+    "status": "downloaded",
+    "path": "C:\\Users\\nalla\\OneDrive\\Documents\\springboard\\SmartHireAI\\data\\raw\\resumes_large",
+    "files": [
+      "Resume.csv"
+    ]
+  },
+  {
+    "key": "resumes_classic",
+    "slug": "jillanisofttech/updated-resume-dataset",
+    "status": "downloaded",
+    "path": "C:\\Users\\nalla\\OneDrive\\Documents\\springboard\\SmartHireAI\\data\\raw\\resumes_classic",
+    "files": [
+      "UpdatedResumeDataSet.csv"
+    ]
+  },
+  {
+    "key": "emotions_text",
+    "slug": "praveengovi/emotions-dataset-for-nlp",
+    "status": "downloaded",
+    "path": "C:\\Users\\nalla\\OneDrive\\Documents\\springboard\\SmartHireAI\\data\\raw\\emotions_text",
+    "files": [
+      "test.txt",
+      "train.txt",
+      "val.txt"
+    ]
+  },
+  {
+    "key": "interview_questions",
+    "slug": "syedmharis/software-engineering-interview-questions-dataset",
+    "status": "downloaded",
+    "path": "C:\\Users\\nalla\\OneDrive\\Documents\\springboard\\SmartHireAI\\data\\raw\\interview_questions",
+    "files": [
+      "Software Questions.csv"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+# Dataset tooling for scripts/datasets/*.
+# Kept separate from requirements.txt so the Flask runtime stays lean.
+#   SmartHireAI\venv\Scripts\python.exe -m pip install -r requirements-data.txt
+kaggle==1.6.17
+pandas==2.2.3
+scikit-learn==1.5.2
+joblib==1.4.2
